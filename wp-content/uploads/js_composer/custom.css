@@ -1,0 +1,79 @@
+.listing_wrapper.col-md-12 .property_listing h4 {
+    padding-left: 10px !important;
+}
+
+.has_4per_row.listing_wrapper.col-md-12 .listing_details.the_list_view {
+    padding-left: 10px !important;
+}
+
+.listing_wrapper.col-md-12 .property_location {
+    margin: 0px 0px 0px 15px !important;
+    display: none !important;
+}
+
+.property-panel {
+    margin-bottom: 13px;
+    display: none;
+}
+
+.wpestate_agent_details_wrapper {
+    padding: 0px;
+    display: none;
+}
+.header_wrapper.header_type2 {
+    min-height: 120px !important;
+}
+.breadcrumb_container {
+    min-height: 0px;
+}
+.admin-bar .has_header_type2 .header_media {
+    padding-top: 150px;
+}
+
+.advanced_search_shortcode {    
+   border: 0;
+}
+
+.listing_wrapper.col-md-12 > .property_listing {
+    min-height: 25px;
+    border: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.content_wrapper {
+   min-height: 800px;
+}
+
+.widget-area-sidebar {
+    margin-top: 50px;
+}
+
+
+.listing_wrapper.col-md-12 .property_listing .listing_details {
+    padding-left: 10px !important;
+}
+.mobile-trigger-user, .mobile-trigger {
+    display: none;
+}
+.widget-area-sidebar {
+    min-height: 0px;
+}
+.backtop {
+    background-color: #22618e;
+}
+.contact-box {
+   background-color: #22618e !important;
+}
+#respond {
+    padding: 10px;
+}
+
+.blog_list_wrapper {
+    width: 100% !important;
+}
+.blog_unit_image {
+    display: none;
+}
+.listing_wrapper {
+    padding-left: 20px;
+}
